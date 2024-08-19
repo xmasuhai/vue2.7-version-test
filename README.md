@@ -1,4 +1,4 @@
-# version-test
+# version-test vue2.7依赖版本测试项目
 
 - `yarn@1.22.19 ~ 1.22.22`
 - `node@18.20.4`
