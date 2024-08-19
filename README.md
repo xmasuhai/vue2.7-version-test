@@ -5,6 +5,10 @@
 - 最低兼容 `chrome 49`，查看配配置：`.browserslistrc`
 - 最高支持 `ES2020` 语法
 
+> 参考链接：
+
+- [迁移至 Vue 2.7](https://v2.cn.vuejs.org/v2/guide/migration-vue-2-7.html)
+
 ## Project setup
 
 ```
