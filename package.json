@@ -5,7 +5,8 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "fix-memory-limit": "cross-env LIMIT=8048 increase-memory-limit"
   },
   "dependencies": {
     "@antv/x6": "^2.16.1",

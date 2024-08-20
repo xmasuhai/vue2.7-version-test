@@ -9,6 +9,12 @@
 
 - [迁移至 Vue 2.7](https://v2.cn.vuejs.org/v2/guide/migration-vue-2-7.html)
 
+## 逐步修改代码
+
+- `eslint` 规则下的 'off' 逐步修改代码
+- `scss` 警告提示逐步修复；
+- `vue`模板中样式标签中的深入样式选择器只使用 `::v-deep`，全局替换旧的 `/deep/`，禁止使用 `/deep/` 已在新版`sass`中废弃
+
 ## Project setup
 
 ```
