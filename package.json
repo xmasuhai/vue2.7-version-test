@@ -11,7 +11,7 @@
   "dependencies": {
     "@antv/x6": "^2.16.1",
     "animejs": "^3.2.1",
-    "axios": "0.18.1",
+    "axios": "0.28.0",
     "core-js": "3.38.0",
     "echarts": "5.5.1",
     "element-ui": "2.15.14",
